@@ -33,6 +33,8 @@ Die Rechnung lautet: Wortzahl geteilt durch Wörter pro Minute, mal 60, plus Pau
 
 Der Rechner prüft weder Inhalt noch Eignung eines Textes. Er ersetzt das tatsächliche Probelesen nicht.
 
+Die [Rechenhilfe mit Beispiel und ausfüllbarem Arbeitsblatt](https://telegra.ph/Wie-lange-dauert-ein-Sprechtext-Eine-Rechenhilfe-mit-Pausen-10-21) erklärt die Planung auch ohne Python: Wortzahl, eigenes Sprechtempo und feste Pausen werden getrennt berechnet.
+
 ## Projektbezug
 
 Das Werkzeug ergänzt die Arbeit mit deutschsprachigen Sprechvorlagen von [RauschSkripte](https://rauschskripte.de/), einem Angebot von Rauschwerk Verlag. Dort gibt es Hypnose-Sprechtexte als PDF und DOCX für Erwachsene; der Katalog umfasst auch erotische und BDSM-bezogene Themen.
