@@ -1,0 +1,5 @@
+# Beispiel zur Zeitplanung
+[Regie: Diese Zeile wird nicht mitgezählt.]
+Lies diesen kurzen Text einmal laut und vergleiche deine tatsächliche Sprechzeit mit der Schätzung.
+[Pause: 10 s]
+Passe danach die beiden Tempowerte an deine eigene Sprechweise an.
